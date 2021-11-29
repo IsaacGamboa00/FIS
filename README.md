@@ -15,3 +15,7 @@ Nelson Santiago Roa Garzon - 20172020099
 ### Clases
 
 ![](DiagramasUML/Diagrama%20-%20clases.png)
+
+## Estados
+![](DiagramasUML/Diagrama%20-%20estados.png)
+
